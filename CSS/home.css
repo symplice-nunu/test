@@ -1,0 +1,308 @@
+ 
+    body{
+      background-color: #d8da3d;
+      
+    }
+    a{
+      margin-left: 16.5em;
+    }
+  .fakeimg {
+    height: 220px;
+    background-color: lightgreen;
+    padding-left: 0.6em;
+    padding-top: 0.5em;
+
+    border-radius: 02em;
+    width: 342px;
+    
+  }
+  #error_message{
+    margin-bottom: 20px;
+    background: #fe8b8e;
+    padding: 0px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.5s ease;
+  }
+  
+  .fakeimggg {
+    height: 20px;
+    background-color: lightgreen;
+    padding-left: 0.6em;
+    padding-top: 0.5em;
+    border-radius: 02em;
+    width: 342px;
+  }
+  .title {
+    height: 195px;
+    background-color: gray;
+    margin-top: -17.5em;
+    padding-left: -3.5em;
+    padding-right: 1.8em;
+   padding-bottom: 2.5em;
+    margin-left: 0.2em;
+    border-radius: 1em;
+    width: 1299px;
+    position: fixed;
+  }
+   .fakeimggg1 {
+    height: 20px;
+    background-color: lightgreen;
+    padding-left: 18.6em;
+    padding-top: 0.5em;
+    border-radius: 02em;
+    width: 342px;
+  }
+  .crazzybutton {
+    height: 25px;
+    border-radius: 02em;
+    width: 10em;
+    margin-left: 1em;
+    background-color: pink;
+  }
+  .crazzybutton1 {
+    height: 25px;
+    border-radius: 02em;
+    width: 10em;
+    margin-left: 3em;
+    background-color: pink;
+
+   
+  }
+  .crazzybutton2 {
+    height: 25px;
+    border-radius: 02em;
+    width: 13em;
+    margin-left: 10em;
+    background-color: pink; 
+  }
+  .crazzybutton3 {
+    height: 25px;
+    border-radius: 02em;
+    width: 13em;
+    margin-left: 10em;
+    background-color: pink; 
+  }
+  .crazzybutton4 {
+    height: 25px;
+    border-radius: 02em;
+    width: 10em;
+    margin-left: 5em;
+    background-color: pink; 
+  }
+    .crazzybutton5 {
+    height: 25px;
+    border-radius: 02em;
+    width: 10em;
+    margin-left: 4em;
+    background-color: pink; 
+  }
+  .crazzybutton6 {
+    height: 25px;
+    border-radius: 02em;
+    width: 10em;
+    margin-left: 7em;
+    background-color: pink; 
+  }
+  .crazzybutton7 {
+    height: 25px;
+    border-radius: 02em;
+    width: 10em;
+    margin-left: 7em;
+    background-color: pink; 
+  }
+   .crazzybutton8 {
+    height: 25px;
+    border-radius: 02em;
+    width: 10em;
+    margin-left: 2.5em;
+    background-color: pink; 
+  }
+    .crazzybutton9 {
+    height: 25px;
+    border-radius: 02em;
+    width: 10em;
+    margin-left: 3em;
+    background-color: pink; 
+  }
+  .crazzybutton10 {
+    height: 25px;
+    border-radius: 02em;
+    width: 10em;
+    margin-left: 4em;
+    background-color: pink; 
+  }
+  .crazzybutton11 {
+    height: 25px;
+    border-radius: 02em;
+    width: 10em;
+    margin-left: 3em;
+    background-color: pink; 
+  }
+  .fakeimg1 {
+    height: 220px;
+    background-color: lightgreen;
+    padding-left: 0.6em;
+    padding-top: 0.5em;
+    border-radius: 02em;
+    width:630px;
+  }
+   ul.navbar{
+      position: absolute;
+      top: 1em;
+      
+ 
+    }
+   ul.navbar li{
+            background: orange;
+            margin-left: 1em;
+            
+            padding-left: 72.3em;
+            border-left: 1em solid blue;
+            border-right: 1em solid blue;
+            border-radius: 1em;
+          }
+          
+           ul.navbarr{
+      position: absolute;
+      top: 11em;
+      
+ 
+    }
+   ul.navbarr li{
+            background: orange;
+            margin-left: 1em;
+            
+            padding-left: 72.3em;
+            border-left: 1em solid blue;
+            border-right: 1em solid blue;
+            border-radius: 1em;
+          }
+            ul.simple{
+      position: absolute;
+      top: 6.5em;
+      
+ 
+    }
+   ul.simple li{
+            background: lightblue;
+            margin-left: 1em;
+            
+            padding-left: 12.3em;
+            border-left: 1em solid green;
+            border-right: 1em solid green;
+            border-radius: 1em;
+
+          }
+            ul.simpleman{
+      position: absolute;
+      top: 6.5em;
+      
+ 
+    }
+   ul.simpleman li{
+            background: lightblue;
+            margin-left: 61em;
+            
+            padding-left: 12.3em;
+            border-left: 1em solid green;
+            border-right: 1em solid green;
+            border-radius: 1em;
+
+          }
+                ul.navba{
+      position: absolute;
+      top: 11em;
+      left: 79.1em;
+      
+ 
+    }
+       ul.navba1{
+      position: absolute;
+      top: 6.4em;
+      left: 79.1em;
+      
+ 
+    }
+    ul.navba2{
+      position: absolute;
+      top: 6.4em;
+      left: 19.1em;
+      
+ 
+    }
+    ul.navb{
+      position: absolute;
+      top: 1.4em;
+      left: 79.1em;
+      
+ 
+    }
+    .ar{
+      
+      border-radius: 1em;
+    }
+    h1{
+      margin-left: 12.1em;
+      margin-top: 2.6em;
+      
+
+    }
+    .para{
+      margin-left: 25.1em;
+      margin-top: 2.1em;
+      color: white;
+
+    }
+    .about{
+      margin-top: -2.5em;
+      margin-left: 0.5em;
+      border-radius: 1em;
+      padding-left: 17em;
+      width: 1047px;
+      height: 20px;
+     
+      position: fixed;
+      background-color: magenta;
+
+
+    }
+    .about1,.about2,.about3{
+      margin-top: 4em;
+      margin-left: 5em;
+
+      text-decoration: none;
+      color: white;
+
+    }
+    .good{
+      margin-left: 8em;
+      margin-top: 17.5em;
+      background-color: lightblue;
+      width: 73.1em;
+      height: 128em;
+      margin-left: 0.5em;
+      padding-top: 0.5em;
+      padding-left: 9.5em;
+      border-radius: 1em;
+
+
+    }
+
+    .range{
+     
+      margin-top: -123.1em;
+      margin-left: 25em;
+    }
+    .copy{
+      margin-left: 30em;
+      margin-top: 62em;
+      margin-bottom: 1.5em;
+      
+    }
+    h1{
+      color: white;
+    }
+   
+
+
